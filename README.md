@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://solved.ac/cal8847">
-    <img align="right" width="45%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cal8847" />
+    <img align="right" width="450" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cal8847" />
   </a>
 
   ### 🐤 HSeongJ
@@ -29,7 +29,7 @@
  ---
 
  <br>
-<img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSeongJ&theme=dracula&langs_count=10" />
+<img align="right" width="450"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSeongJ&theme=dracula&langs_count=10" />
 
 <div align="center">
 
