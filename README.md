@@ -10,7 +10,7 @@
   ---
 
   <p>
-  Junior Developer
+    Algorithms
   </p>
 
   <p>
