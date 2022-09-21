@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img align="right" width="45%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cal8847" />
+  <a href="https://solved.ac/cal8847">
+    <img align="right" width="45%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cal8847" />
+  </a>
 
   ### 🐤 HSeongJ
   
