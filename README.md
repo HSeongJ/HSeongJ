@@ -41,8 +41,9 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <br>
 
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/IDEA-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<!--<img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>-->
-<br>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDEA-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>-->
+  <br>
+</div>
