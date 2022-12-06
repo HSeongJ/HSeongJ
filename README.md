@@ -11,7 +11,7 @@
 
   
   <a href="mailto:cal9008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cal9008@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="mailto:cal8847@icloud.com" target="_blank"><img src="https://img.shields.io/badge/cal8847@icloud.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:cal8847@icloud.com" target="_blank"><img src="https://img.shields.io/badge/cal8847@icloud.com-3693F3?style=flat-square&logo=iCloud&logoColor=white"/></a>
   ---
 
   <p>
