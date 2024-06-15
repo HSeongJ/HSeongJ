@@ -4,10 +4,7 @@
     <img align="right" width="450" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cal8847" />
   </a>
 
-  ### 🐤 HSeongJ
-  
-
-  Junior Developer
+  ### HSeongJ
 
   
   <a href="mailto:cal9008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cal9008@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
