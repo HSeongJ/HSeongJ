@@ -2,7 +2,7 @@
 
 <!--내용 부분-->
 <div align="center">
-  <h3 align="center">✨ Tech Stack ✨</h3>
+  <h3 align="center">Tech Stack ✨</h3>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
@@ -18,7 +18,7 @@
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E" />&nbsp
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
@@ -26,7 +26,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
 </div>
@@ -42,7 +42,7 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">Contact 📫</h3>
 <div align="center">
   <a href="https://hseongj.com">
     <img src="https://img.shields.io/badge/Blog-191A1B?style=for-the-badge&logo=barmenia&logoColor=white" />&nbsp
