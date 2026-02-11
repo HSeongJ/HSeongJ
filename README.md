@@ -21,15 +21,15 @@
 <h3 align="center">Contact</h3>
 <div align="center">
   <a href="https://hseongj.com">
-    <img src="https://img.shields.io/badge/Blog-191A1B?style=for-the-badge&logo=barmenia&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Blog-191A1B?style=for-the-badge&logo=barmenia&logoColor=white" />
   </a>
 </div>
 <div align="center">
-    <a href="mailto:cal8847@icloud.com">
-    <img src="https://img.shields.io/badge/cal8847@icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>&nbsp
+  <a href="mailto:cal8847@icloud.com">
+    <img src="https://img.shields.io/badge/cal8847@icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
   </a>
   <a href="mailto:cal9008@gmail.com">
-    <img src="https://img.shields.io/badge/cal9008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/cal9008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
@@ -37,6 +37,6 @@
 
 <div align="center">
   <a href="https://solved.ac/cal8847">
-    <img align="right" width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cal8847" />
+    <img align="center" width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cal8847" />
   </a>
 </div>
