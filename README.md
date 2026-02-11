@@ -36,5 +36,7 @@
 <br>
 
 <div align="center">
-  <img align="right" width="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSeongJ&theme=dracula&langs_count=10" />
+  <a href="https://solved.ac/cal8847">
+    <img align="right" width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cal8847" />
+  </a>
 </div>
